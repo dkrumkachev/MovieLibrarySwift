@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDtUSU3JM87MsMFIc8c6uYN8n2XpnCSVqo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1046293668177</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.MovieLibrary</string>
+	<key>PROJECT_ID</key>
+	<string>movielibrary-3e1eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movielibrary-3e1eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1046293668177:ios:083108863141bf6ab77370</string>
+	<key>DATABASE_URL</key>
+	<string>https://movielibrary-3e1eb-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
